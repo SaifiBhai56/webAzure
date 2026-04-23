@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/da867a82-45cd-4e1d-b1f2-4ab93a054f13/resourceGroups/Website/providers/Microsoft.Web/sites/sarfraz-web",
+    "appService.deploySubpath": "."
+}
